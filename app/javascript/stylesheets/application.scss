@@ -2,4 +2,17 @@
 @import "tailwindcss/components";
 @import "tailwindcss/utilities";
 
-@import "components/buttons"
+@import "flatpickr/dist/flatpickr.css";
+
+// You can add your own custom components/styles below
+@import "components/alert";
+@import "components/base";
+@import "components/buttons";
+@import "components/forms";
+@import "components/icons";
+@import "components/logo_container";
+@import "components/nav";
+@import "components/pagination";
+@import "components/typography";
+@import "components/util";
+
